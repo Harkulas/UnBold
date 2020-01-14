@@ -1,0 +1,12 @@
+D:\Projects\UnBold\UnBold\bin\Debug\UnBold.exe.config
+D:\Projects\UnBold\UnBold\bin\Debug\UnBold.exe
+D:\Projects\UnBold\UnBold\bin\Debug\UnBold.pdb
+D:\Projects\UnBold\UnBold\obj\Debug\UnBold.csprojAssemblyReference.cache
+D:\Projects\UnBold\UnBold\obj\Debug\UnBold.Properties.Resources.resources
+D:\Projects\UnBold\UnBold\obj\Debug\UnBold.csproj.GenerateResource.cache
+D:\Projects\UnBold\UnBold\obj\Debug\UnBold.csproj.CoreCompileInputs.cache
+D:\Projects\UnBold\UnBold\obj\Debug\UnBold.exe
+D:\Projects\UnBold\UnBold\obj\Debug\UnBold.pdb
+D:\Projects\UnBold\UnBold\obj\Debug\UnBold.FormLogin.resources
+D:\Projects\UnBold\UnBold\obj\Debug\UnBold.Dashboard.resources
+D:\Projects\UnBold\UnBold\obj\Debug\UnBold.csproj.CopyComplete
