@@ -15,6 +15,7 @@ namespace UnBold
         public Dashboard()
         {
             InitializeComponent();
+            //InitializeComponent();
         }
         
     }
