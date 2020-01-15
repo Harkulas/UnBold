@@ -4,3 +4,6 @@
 
 /.vs/UnBold/v15/Server/sqlite3
 /.vs/UnBold/v15/.suo
+/.vs
+/UnBold/obj
+/UnBold/bin
