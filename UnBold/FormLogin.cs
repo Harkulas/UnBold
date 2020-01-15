@@ -71,7 +71,7 @@ namespace UnBold
                 }
                 else
                 {
-                    MessageBox.Show("Your Username Or Passowrd is Wrong", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Your Username Or Passowrd Is Wrong , Try Again", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
             con.Close();
